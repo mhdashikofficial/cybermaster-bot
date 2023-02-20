@@ -1,0 +1,16 @@
+{
+
+  "dependencies": {
+
+    "venom-bot": "^4.3.7"
+
+  },
+
+  "devDependencies": {
+
+    "javascript-obfuscator": "^4.0.2"
+
+  }
+
+}
+
