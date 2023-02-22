@@ -11,4 +11,4 @@ $cd cybermaster-bot<br>
 $npm install venom-bot<br>
 $node index.js<br><br>
 <h2>Tutorial</h2>
-Coming soon
+https://youtu.be/MPuRk75ZwN4
